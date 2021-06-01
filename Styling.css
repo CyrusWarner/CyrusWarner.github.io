@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 6vh;
+    background-color: #8ee4af;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+    color: white;
+    font-size: 24px;
+    letter-spacing: 6px;
+
+
+}
+
+.nav-links{
+    display: flex;
+    color: black;
+    justify-content: space-around;
+    width: 45%;
+}
+.nav-links li{
+    list-style: none;
+}
+
+.nav-links a{
+    color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 20px;
+
+}
+
