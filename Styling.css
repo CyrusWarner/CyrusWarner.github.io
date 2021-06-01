@@ -63,6 +63,8 @@ nav{
     font-family: 'Lato', sans-serif;
     font-size: 20px;
     text-align: center;
+    margin-right: 210px;
+    margin-left: 210px;
 }
 
 .id2{
@@ -73,11 +75,24 @@ nav{
     font-weight: bold; 
     color: #8ee4af;
     font-size: 40px;
+    margin-bottom: 40px;
 }
 
 #three{
     font-family: 'Lato', sans-serif;
     font-size: 20px;
     text-align: center;
-    
+    margin-right: 210px;
+    margin-left: 210px;
+}
+
+.id3{
+    color: black;
+    text-align: center;
+    margin-top: 125px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold; 
+    color: #8ee4af;
+    font-size: 40px;
+    margin-bottom: 40px;
 }
