@@ -111,3 +111,9 @@ body{
     margin-left: 210px;
 }
 
+.img-Grad{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+}
