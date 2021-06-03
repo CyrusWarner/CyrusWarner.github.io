@@ -39,6 +39,10 @@ nav{
 
 }
 
+.nav-links a:hover {
+    background-color: #ADD8E6;
+}
+
 body{
     background-color: #AAAAAA;
 }
