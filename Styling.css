@@ -219,7 +219,9 @@ body{
 
 .column{
     flex: 33.33%;
-    padding: 5px;
+    padding: 20px;
+    margin-bottom: 75px;
+
 }
 
 .Projects{
